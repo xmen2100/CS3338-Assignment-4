@@ -1,1 +1,15 @@
-ECHO is on.
+**/*.log
+
+**/User_Manual/
+
+**/*-*.txt
+
+**/styles.css
+
+**/SRS_*.docx
+!**/SRS_final.docx
+
+**/SDD_*.docx
+!**/SDD_final.docx
+
+/**/README.md
